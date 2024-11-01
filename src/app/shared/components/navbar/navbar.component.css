@@ -1,0 +1,39 @@
+.logoNavb {
+    width: 50px;
+}
+
+a {
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+    color: black;
+}
+
+#texto1 {
+    text-align-last: center;
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+    color: #549aff;
+    font-size: x-large;
+}
+
+#texto2 {
+    text-align-last: center;
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+    color: #cb6ce6;
+    font-size: x-large;
+}
+
+#texto3 {
+    text-align-last: center;
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+}

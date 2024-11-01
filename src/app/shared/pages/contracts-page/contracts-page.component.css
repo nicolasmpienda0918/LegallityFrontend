@@ -1,0 +1,31 @@
+#contenedor1 {
+    background-color: white
+}
+
+#testo1 {
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+    color: #cb6ce6;
+}
+
+#testo2 {
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align-last: center;
+    color: #549aff;
+}
+
+#card1 {
+    margin: 10px;
+    font-family: "Bagel Fat One", system-ui;
+    font-weight: 200;
+    font-style: normal;
+    color: #737373;
+}
+
+#imgs {
+    width: 50%;
+}
