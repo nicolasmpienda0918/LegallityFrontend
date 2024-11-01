@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'shared-document-page',
+  selector: 'formats-document-page',
   templateUrl: './document-page.component.html',
   styleUrl: './document-page.component.css'
 })

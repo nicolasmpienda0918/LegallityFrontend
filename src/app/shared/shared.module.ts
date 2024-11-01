@@ -9,8 +9,6 @@ import { NgbNavModule } from '@ng-bootstrap/ng-bootstrap';
 
 
 import { RouterModule } from '@angular/router';
-import { ContractsPageComponent } from './pages/contracts-page/contracts-page.component';
-import { DocumentPageComponent } from './pages/document-page/document-page.component';
 import { ContactPageComponent } from './pages/contact-page/contact-page.component';
 
 
@@ -20,8 +18,6 @@ import { ContactPageComponent } from './pages/contact-page/contact-page.componen
     AboutPageComponent,
     HomePageComponent,
     NavbarComponent,
-    ContractsPageComponent,
-    DocumentPageComponent,
     ContactPageComponent
   ],
   imports: [
